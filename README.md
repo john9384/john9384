@@ -1,6 +1,6 @@
 ## Hi there 👋
->I am Damilola
->Fullstack Web Developer
+>I am Damilola, 
+>Fullstack Developer.
 # Welcome to my Github page.
 
 
