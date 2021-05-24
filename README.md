@@ -4,7 +4,7 @@
 ### Fullstack Web Developer
 
 ### My tech stack
-Format: ![js](/img/js.png)
+![js](/img/js.png) ![ts](/img/typescript.png) ![python](/img/python.png) ![html](/img/html.png) ![css](/img/css.png) ![git](/img/git.png) ![docker](/img/docker.png) 
 
 <!--
 **john9384/john9384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
