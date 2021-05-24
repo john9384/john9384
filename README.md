@@ -4,6 +4,7 @@
 ### Fullstack Web Developer
 
 ### My tech stack
+<img src="/img/js.png" alt="drawing" width="200" height="200"/>
 ![js](/img/js.png) ![ts](/img/typescript.png) ![python](/img/python.png) ![html](/img/html.png) ![css](/img/css.png) ![git](/img/git.png) ![docker](/img/docker.png) 
 
 <!--
