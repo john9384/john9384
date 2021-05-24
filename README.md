@@ -4,8 +4,7 @@
 ### Fullstack Web Developer
 
 ### My tech stack
-<img src="/img/js.png" alt="drawing" width="200" height="200"/>
-![js](/img/js.png) ![ts](/img/typescript.png) ![python](/img/python.png) ![html](/img/html.png) ![css](/img/css.png) ![git](/img/git.png) ![docker](/img/docker.png) 
+<img src="/img/js.png" alt="js" width="200" height="200"/> <img src="/img/typescript.png" alt="typescript" width="200" height="200"/> <img src="/img/python.png" alt="python" width="200" height="200"/> <img src="/img/html.png" alt="html" width="200" height="200"/> <img src="/img/css.png" alt="css" width="200" height="200"/> <img src="/img/git.png" alt="git" width="200" height="200"/> <img src="/img/docker.png" alt="docker" width="200" height="200"/>
 
 <!--
 **john9384/john9384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
