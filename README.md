@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 # Welcome to my Github page.
-I am Damilola
+I am *Damilola*
 Fullstack Web Developer
 
-
+[<img height="30" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](linkedin.com/in/john-damilola-ogungbure-3a20b0160)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/John_Damie)
-<a href="https://twitter.com/John_Damie" target="_blank" ><img height="30" src="https://img.shields.io/badge/-medium-black?logo=medium&logoColor=white&style=for-the-badge"/></a>
-<a><img height="30" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[<img height="30" src="https://img.shields.io/badge/-medium-black?logo=medium&logoColor=white&style=for-the-badge"/>](https://medium.com/@john_damilola)
+
 
 
 
