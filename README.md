@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # Welcome to my Github page.
-## I am Damilola
-### Fullstack Web Developer
+I am Damilola
+Fullstack Web Developer
 
 
 
