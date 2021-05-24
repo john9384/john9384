@@ -4,7 +4,7 @@
 ### Fullstack Web Developer
 
 ### My tech stack
-Format: ![js]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3G6K9H7G6i8_javascript-icon%2F&psig=AOvVaw0Uu77MwA1CJUXkw8ihKNAb&ust=1621965807419000&source=images&cd=vfe&ved=2ahUKEwjWvcrP8-LwAhVC7uAKHUKuD2UQjRx6BAgAEAc")
+Format: ![js](/img/js.png)
 
 <!--
 **john9384/john9384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
