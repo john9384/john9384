@@ -1,6 +1,6 @@
 ## Hi there 👋
 >I am Damilola, 
->Fullstack Developer.
+>Software Engineer.
 # Welcome to my Github page.
 
 
