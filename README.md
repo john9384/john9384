@@ -1,6 +1,6 @@
 ## Hi there 👋
 >I am Damilola, 
->Software Engineer.
+>A Software Engineer.
 # Welcome to my Github page.
 
 
