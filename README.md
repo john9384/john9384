@@ -9,11 +9,6 @@
 [<img height="30" src="https://img.shields.io/badge/-medium-black?logo=medium&logoColor=white&style=for-the-badge"/>](https://medium.com/@john_damilola)
 
 
-
-
-
-### My tech stack
-
 <img src="/img/js.png" alt="js" width="50" height="50"/> &nbsp; <img src="/img/typescript.png" alt="typescript" width="50" height="50"/> &nbsp;  <img src="/img/python.png" alt="python" width="50" height="50"/> &nbsp;  <img src="/img/html.png" alt="html" width="50" height="50"/> &nbsp; <img src="/img/css.png" alt="css" width="40" height="50"/>  &nbsp; <img src="/img/mongo.png" alt="mongo" width="50" height="50"/> &nbsp; <img src="/img/mysql.png" alt="mysql" width="50" height="50"/> &nbsp; <img src="/img/git.png" alt="git" width="50" height="50"/> &nbsp; <img src="/img/docker.png" alt="docker" width="50" height="50"/>
 
 <!--
