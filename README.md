@@ -5,7 +5,7 @@
 # Welcome to my Github page.
 
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/john-ogungbure-67638b249/)
+<a href="https://www.linkedin.com/in/john-ogungbure-67638b249/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 [<img height="30" src="https://img.shields.io/badge/-medium-black?logo=medium&logoColor=white&style=for-the-badge"/>](https://medium.com/@john_damilola)
 
 
