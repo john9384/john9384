@@ -1,1 +1,0 @@
-export { IFriendRequestController } from './IFriendRequestController'

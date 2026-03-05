@@ -1,1 +1,0 @@
-export { authDTO } from './AuthDTO'
