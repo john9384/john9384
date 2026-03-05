@@ -1,16 +1,7 @@
-# Hi there, I'm John Ogungbure 👋
-
-<p align="center">
-  <a href="https://johnogungbure.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-edge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+# Hi there 👋
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQG2FXuVT_qe1w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702837549045?e=1774483200&v=beta&t=xHoetwIXjnpZOWAUf5jhvYLa8Zb1CEF92aP67UBNH3k" alt="Banner" width="100%" height="auto" />
 
-### 🚀 About Me
-
-- 🏢 Software Engineer
 - 📍 Based in **Lagos, Nigeria**.
 - 📧 Reach out at [jogungbure@gmail.com](mailto:jogungbure@gmail.com)
 
