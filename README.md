@@ -1,11 +1,12 @@
 # Hi there, I'm John Ogungbure👋
 
 - 🏢 Senior Software Engineer
-- 🛠️ Expertise in **JavaScript/TypeScript** and **Python**.
 - 📍 Based in **Lagos, Nigeria**.
 - 📧 Reach out at [jogungbure@gmail.com](mailto:jogungbure@gmail.com)
 
 ---
+
+### 🛠️ Tecnologies experienced with
 
 **Frontend**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
